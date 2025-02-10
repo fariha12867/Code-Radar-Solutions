@@ -1,9 +1,4 @@
-#include <stdio.h>
 
-int main() {
-    printf("%s", welcome());
-    return 0;
-}
 #include <stdio.h>
 int main(){
     char a;
