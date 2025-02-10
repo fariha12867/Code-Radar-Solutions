@@ -3,6 +3,6 @@ int main() {
     unsigned int result;
     scanf("%d",&num);
     result = ~ num;
-    printf("%d", result);
+    printf("%d",num);
     return 0;
 }
