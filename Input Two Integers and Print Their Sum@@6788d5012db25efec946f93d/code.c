@@ -1,5 +1,5 @@
 #include <stdio.h>
-@@ -3,6 +3,6 @@ int main(){
+ int main(){
     int a;
     int b;
     scanf("%d %d",&a,&b);
