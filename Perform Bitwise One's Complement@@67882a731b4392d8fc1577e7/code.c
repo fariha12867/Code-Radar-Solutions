@@ -4,5 +4,6 @@ int main() {
     scanf("%d",&num);
     result = ~ num;
     printf("%d",num);
+      printf("%d", result);
     return 0;
 }
